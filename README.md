@@ -1,5 +1,5 @@
-# Git Icon for Windows 10
-A Git Repository icon in the style of Windows 10 folder icons. I may also eventually include icons for Windows 7 & 8, as well as Mac OS X.
+# Git Icon for Windows 10 and MacOS
+A Git Repository icon in the style of Windows 10 and MacOS folder icons.
 
 ## Installation
 
@@ -13,10 +13,9 @@ A Git Repository icon in the style of Windows 10 folder icons. I may also eventu
  8. Click "OK" then "Apply."
 
 ## Resources
- - folder.ico extracted from Windows 10's shell32.dll
+ - Windows 10 folder icon extracted from Windows 10's shell32.dll
  - Git logo pulled from [Git's official site](https://www.git-scm.com/downloads/logos).
- 
+
 ## License
 
 [Creative Commons Attribution 3.0 Unported License](https://www.creativecommons.org/licenses/by/3.0/)
- 
